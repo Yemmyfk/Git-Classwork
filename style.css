@@ -1,0 +1,12 @@
+.card{
+    height: 10vh;
+    width: 100%;
+    background-color: gray;
+    color: black;
+    border: 1px solid;
+}
+
+.card-img{
+    height: 10%;
+    width: 10%;
+}
